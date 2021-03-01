@@ -1,5 +1,5 @@
 # File-Type-Analyzer-PJ-in-Java
-Java Project for Practicing using multiple feature (multi-thread, pattern checking pattern algorithms,..)
+Java Project for Practicing using multiple features (multi-thread, pattern checking pattern algorithms,..)
 
 source file in task/src/analyzer
 
